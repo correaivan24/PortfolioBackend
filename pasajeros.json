@@ -1,0 +1,38 @@
+[
+    {
+        "nombre":"ivan",
+        "apellido":"correa",
+        "edad":19,
+        "pagado":true,
+        "asiento": {
+            "numero":13,
+            "letra": "F",
+            "cargador":false
+        },
+        "historial":[{
+            "salida" : "Buenos aires",
+            "destino": "San Luis",
+            "fecha" : "10/10/2022"
+        } ,
+
+        {
+            "salida":"San Luis",
+            "destino":"cordoba",
+            "fecha":"11/11/2022"
+        }
+     ]
+
+    },
+    {
+        "nombre":"noah",
+        "apellido":"park",
+        "edad":18,
+        "pagado":true,
+        "asiento": {
+        "numero":15,
+        "letra": "L",
+        "cargador":true
+        },
+        "historial":[]
+    }
+]
